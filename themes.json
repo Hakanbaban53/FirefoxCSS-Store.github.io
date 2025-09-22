@@ -1,5 +1,25 @@
 [
   {
+    "title": "arcadia",
+    "link": "https://github.com/tyrohellion/arcadia",
+    "description": "Minimal Firefox theme and user.js focused on speed and design",
+    "image": "assets/img/themes/arcadia.webp",
+    "tags": [
+      "tyro",
+      "dark",
+      "minimal",
+      "clean",
+      "hovercards",
+      "simple",
+      "compact",
+      "minimalistic"
+    ],
+    "repository": "https://github.com/tyrohellion/arcadia",
+    "pushed_at": "2025-08-12T03:56:39Z",
+    "stargazers_count": 19,
+    "avatar": "https://avatars.githubusercontent.com/u/51808054?v=4"
+  },
+  {
     "title": "Titlebar-Button-Fix",
     "link": "https://github.com/birbkeks/Firefox-Titlebar-Button-Fix",
     "description": "This theme fixes titlebar min max close buttons for Firefox in linux. ",
@@ -11,7 +31,7 @@
     ],
     "repository": "https://github.com/birbkeks/Firefox-Titlebar-Button-Fix",
     "pushed_at": "2024-05-12T18:57:05Z",
-    "stargazers_count": 7,
+    "stargazers_count": 6,
     "avatar": "https://avatars.githubusercontent.com/u/67545942?v=4"
   },
   {
@@ -30,7 +50,7 @@
     ],
     "repository": "https://github.com/PROxZIMA/Sweet-Pop",
     "pushed_at": "2023-03-25T10:54:34Z",
-    "stargazers_count": 265,
+    "stargazers_count": 262,
     "avatar": "https://avatars.githubusercontent.com/u/43103163?v=4"
   },
   {
@@ -48,7 +68,7 @@
     ],
     "repository": "https://github.com/marmmaz/FirefoxCSS",
     "pushed_at": "2021-10-13T19:11:07Z",
-    "stargazers_count": 73,
+    "stargazers_count": 76,
     "avatar": "https://avatars.githubusercontent.com/u/71498246?v=4"
   },
   {
@@ -64,7 +84,7 @@
     ],
     "repository": "https://github.com/h4wwk3ye/firefoxCSS",
     "pushed_at": "2021-01-25T11:22:25Z",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "avatar": "https://avatars.githubusercontent.com/u/24487030?v=4"
   },
   {
@@ -80,7 +100,7 @@
     ],
     "repository": "https://github.com/CristianDragos/FirefoxThemes",
     "pushed_at": "2021-10-07T12:23:11Z",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "avatar": "https://avatars.githubusercontent.com/u/3705687?v=4"
   },
   {
@@ -95,7 +115,7 @@
     ],
     "repository": "https://github.com/CristianDragos/FirefoxThemes",
     "pushed_at": "2021-10-07T12:23:11Z",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "avatar": "https://avatars.githubusercontent.com/u/3705687?v=4"
   },
   {
@@ -113,7 +133,7 @@
     ],
     "repository": "https://github.com/migueravila/Simplefox",
     "pushed_at": "2022-04-24T18:56:19Z",
-    "stargazers_count": 1794,
+    "stargazers_count": 1852,
     "avatar": "https://avatars.githubusercontent.com/u/35583825?v=4"
   },
   {
@@ -130,7 +150,7 @@
     ],
     "repository": "https://github.com/manilarome/blurredfox",
     "pushed_at": "2023-06-27T10:12:27Z",
-    "stargazers_count": 918,
+    "stargazers_count": 922,
     "avatar": "https://avatars.githubusercontent.com/u/40349590?v=4"
   },
   {
@@ -147,7 +167,7 @@
     ],
     "repository": "https://github.com/fellowish/firefox-review",
     "pushed_at": "2021-04-22T18:14:52Z",
-    "stargazers_count": 140,
+    "stargazers_count": 138,
     "avatar": "https://avatars.githubusercontent.com/u/28973978?v=4"
   },
   {
@@ -162,7 +182,7 @@
     ],
     "repository": "https://github.com/daaniiieel/nord-firefox",
     "pushed_at": "2020-04-18T08:08:07Z",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "avatar": "https://avatars.githubusercontent.com/u/41679054?v=4"
   },
   {
@@ -178,7 +198,7 @@
     ],
     "repository": "https://github.com/not-holar/my_firefox_theme",
     "pushed_at": "2022-10-17T13:05:29Z",
-    "stargazers_count": 86,
+    "stargazers_count": 85,
     "avatar": "https://avatars.githubusercontent.com/u/58831297?v=4"
   },
   {
@@ -194,8 +214,8 @@
       "rounded"
     ],
     "repository": "https://github.com/datguypiko/Firefox-Mod-Blur",
-    "pushed_at": "2024-12-01T19:07:36Z",
-    "stargazers_count": 1386,
+    "pushed_at": "2025-08-26T10:41:41Z",
+    "stargazers_count": 1579,
     "avatar": "https://avatars.githubusercontent.com/u/61329159?v=4"
   },
   {
@@ -210,7 +230,7 @@
     ],
     "repository": "https://github.com/coekuss/quietfox",
     "pushed_at": "2021-07-05T22:51:14Z",
-    "stargazers_count": 173,
+    "stargazers_count": 172,
     "avatar": "https://avatars.githubusercontent.com/u/45906331?v=4"
   },
   {
@@ -242,7 +262,7 @@
     ],
     "repository": "https://github.com/muckSponge/MaterialFox",
     "pushed_at": "2024-09-23T08:58:42Z",
-    "stargazers_count": 1951,
+    "stargazers_count": 1973,
     "avatar": "https://avatars.githubusercontent.com/u/5405629?v=4"
   },
   {
@@ -256,8 +276,8 @@
       "colorscheme"
     ],
     "repository": "https://github.com/Guerra24/Firefox-UWP-Style",
-    "pushed_at": "2024-12-13T07:04:19Z",
-    "stargazers_count": 412,
+    "pushed_at": "2025-08-21T19:33:38Z",
+    "stargazers_count": 447,
     "avatar": "https://avatars.githubusercontent.com/u/9023392?v=4"
   },
   {
@@ -274,8 +294,8 @@
       "one-line"
     ],
     "repository": "https://github.com/MatejKafka/FirefoxTheme",
-    "pushed_at": "2024-10-08T14:53:05Z",
-    "stargazers_count": 15,
+    "pushed_at": "2025-04-06T13:59:21Z",
+    "stargazers_count": 16,
     "avatar": "https://avatars.githubusercontent.com/u/6414091?v=4"
   },
   {
@@ -290,7 +310,7 @@
     ],
     "repository": "https://github.com/akshat46/FlyingFox",
     "pushed_at": "2023-04-11T07:11:04Z",
-    "stargazers_count": 1601,
+    "stargazers_count": 1602,
     "avatar": "https://avatars.githubusercontent.com/u/7402043?v=4"
   },
   {
@@ -306,7 +326,7 @@
     ],
     "repository": "https://github.com/M1ch431/FirefoxW10ContextMenus",
     "pushed_at": "2021-09-20T04:21:08Z",
-    "stargazers_count": 109,
+    "stargazers_count": 112,
     "avatar": "https://avatars.githubusercontent.com/u/46256998?v=4"
   },
   {
@@ -336,7 +356,7 @@
     ],
     "repository": "https://github.com/aadilayub/firefox-i3wm-theme",
     "pushed_at": "2023-07-27T09:02:57Z",
-    "stargazers_count": 147,
+    "stargazers_count": 154,
     "avatar": "https://avatars.githubusercontent.com/u/31581044?v=4"
   },
   {
@@ -355,8 +375,8 @@
       "linux"
     ],
     "repository": "https://github.com/bmFtZQ/Edge-FrFox",
-    "pushed_at": "2024-11-27T08:46:45Z",
-    "stargazers_count": 717,
+    "pushed_at": "2025-04-03T09:14:16Z",
+    "stargazers_count": 765,
     "avatar": "https://avatars.githubusercontent.com/u/62812711?v=4"
   },
   {
@@ -384,7 +404,7 @@
     ],
     "repository": "https://github.com/rafamadriz/Firefox-Elegant-NordTheme",
     "pushed_at": "2023-04-28T01:47:55Z",
-    "stargazers_count": 21,
+    "stargazers_count": 23,
     "avatar": "https://avatars.githubusercontent.com/u/67771985?v=4"
   },
   {
@@ -397,7 +417,7 @@
     ],
     "repository": "https://github.com/eduardhojbota/moonlight-userChrome",
     "pushed_at": "2023-11-25T14:46:00Z",
-    "stargazers_count": 139,
+    "stargazers_count": 141,
     "avatar": "https://avatars.githubusercontent.com/u/2820538?v=4"
   },
   {
@@ -410,21 +430,21 @@
     ],
     "repository": "https://github.com/seirin-blu/Firefox-Halo",
     "pushed_at": "2023-11-27T19:29:22Z",
-    "stargazers_count": 42,
+    "stargazers_count": 45,
     "avatar": "https://avatars.githubusercontent.com/u/61664123?v=4"
   },
   {
-    "title": "Pseudo-fullscreen Firefox, Sidebery and YouTube",
+    "title": "Pseudo-fullscreen Firefox",
     "link": "https://github.com/ongots/pseudo-fullscreen-firefox",
-    "description": "\n Compatibility: V89+",
+    "description": "Hides and improves interface Firefox and YouTube, giving maximum space for content and aiding concentration",
     "image": "assets/img/themes/always-fullscreen-firefox.webp",
     "tags": [
       "toolkit",
       "sidebar"
     ],
     "repository": "https://github.com/ongots/pseudo-fullscreen-firefox",
-    "pushed_at": "2024-12-28T08:53:08Z",
-    "stargazers_count": 60,
+    "pushed_at": "2025-09-15T18:43:01Z",
+    "stargazers_count": 66,
     "avatar": "https://avatars.githubusercontent.com/u/43604031?v=4"
   },
   {
@@ -438,8 +458,8 @@
       "safari"
     ],
     "repository": "https://github.com/adamxweb/WhiteSurFirefoxThemeMacOS",
-    "pushed_at": "2024-12-20T00:27:44Z",
-    "stargazers_count": 524,
+    "pushed_at": "2025-07-26T05:43:43Z",
+    "stargazers_count": 584,
     "avatar": "https://avatars.githubusercontent.com/u/6800453?v=4"
   },
   {
@@ -454,7 +474,7 @@
     ],
     "repository": "https://github.com/Godiesc/AlpenBlue",
     "pushed_at": "2022-06-19T19:00:45Z",
-    "stargazers_count": 65,
+    "stargazers_count": 68,
     "avatar": "https://avatars.githubusercontent.com/u/22057609?v=4"
   },
   {
@@ -467,8 +487,8 @@
       "dusk"
     ],
     "repository": "https://github.com/aminomancer/uc.css.js",
-    "pushed_at": "2024-12-29T07:06:43Z",
-    "stargazers_count": 348,
+    "pushed_at": "2025-09-07T02:38:37Z",
+    "stargazers_count": 375,
     "avatar": "https://avatars.githubusercontent.com/u/33384265?v=4"
   },
   {
@@ -495,7 +515,7 @@
     ],
     "repository": "https://github.com/Godiesc/DiamondFucsia",
     "pushed_at": "2023-11-25T12:46:57Z",
-    "stargazers_count": 7,
+    "stargazers_count": 6,
     "avatar": "https://avatars.githubusercontent.com/u/22057609?v=4"
   },
   {
@@ -508,7 +528,7 @@
     ],
     "repository": "https://github.com/sagars007/Australis-like-tabs-FF-ProtonUI-changes",
     "pushed_at": "2021-06-10T07:37:39Z",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "avatar": "https://avatars.githubusercontent.com/u/56472130?v=4"
   },
   {
@@ -535,8 +555,8 @@
       ""
     ],
     "repository": "https://github.com/black7375/Firefox-UI-Fix",
-    "pushed_at": "2025-01-01T21:01:29Z",
-    "stargazers_count": 5499,
+    "pushed_at": "2025-08-10T14:14:12Z",
+    "stargazers_count": 5696,
     "avatar": "https://avatars.githubusercontent.com/u/25581533?v=4"
   },
   {
@@ -548,8 +568,8 @@
       ""
     ],
     "repository": "https://github.com/black7375/Firefox-UI-Fix/tree/photon-style",
-    "pushed_at": "2025-01-01T21:01:29Z",
-    "stargazers_count": 5499,
+    "pushed_at": "2025-08-10T14:14:12Z",
+    "stargazers_count": 5696,
     "avatar": "https://avatars.githubusercontent.com/u/25581533?v=4"
   },
   {
@@ -562,7 +582,7 @@
     ],
     "repository": "https://github.com/1280px/rainfox",
     "pushed_at": "2022-02-04T15:28:44Z",
-    "stargazers_count": 68,
+    "stargazers_count": 73,
     "avatar": "https://avatars.githubusercontent.com/u/71165491?v=4"
   },
   {
@@ -594,7 +614,7 @@
     ],
     "repository": "https://github.com/edo0/Technetium",
     "pushed_at": "2022-02-13T15:22:08Z",
-    "stargazers_count": 89,
+    "stargazers_count": 90,
     "avatar": "https://avatars.githubusercontent.com/u/16632292?v=4"
   },
   {
@@ -611,8 +631,8 @@
       "v89"
     ],
     "repository": "https://github.com/Godiesc/Chameleons-Beauty",
-    "pushed_at": "2024-12-01T15:46:14Z",
-    "stargazers_count": 112,
+    "pushed_at": "2025-04-01T00:27:34Z",
+    "stargazers_count": 118,
     "avatar": "https://avatars.githubusercontent.com/u/22057609?v=4"
   },
   {
@@ -631,7 +651,7 @@
     ],
     "repository": "https://github.com/xmansyx/Pro-Fox",
     "pushed_at": "2021-06-16T17:19:03Z",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "avatar": "https://avatars.githubusercontent.com/u/23141127?v=4"
   },
   {
@@ -665,7 +685,7 @@
     ],
     "repository": "https://github.com/bpwned/protovibrant",
     "pushed_at": "2021-11-21T18:25:54Z",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "avatar": "https://avatars.githubusercontent.com/u/446744?v=4"
   },
   {
@@ -703,7 +723,7 @@
     ],
     "repository": "https://github.com/dannycolin/fx-compact-mode",
     "pushed_at": "2021-12-11T08:15:44Z",
-    "stargazers_count": 128,
+    "stargazers_count": 127,
     "avatar": "https://avatars.githubusercontent.com/u/7339076?v=4"
   },
   {
@@ -720,7 +740,7 @@
     ],
     "repository": "https://github.com/FirefoxCSSThemers/GruvFox",
     "pushed_at": "2021-08-31T02:33:56Z",
-    "stargazers_count": 18,
+    "stargazers_count": 22,
     "avatar": "https://avatars.githubusercontent.com/u/84518514?v=4"
   },
   {
@@ -736,8 +756,8 @@
       "leadweedy"
     ],
     "repository": "https://github.com/leadweedy/Firefox-Proton-Square",
-    "pushed_at": "2024-11-28T21:37:18Z",
-    "stargazers_count": 117,
+    "pushed_at": "2025-03-12T09:23:50Z",
+    "stargazers_count": 126,
     "avatar": "https://avatars.githubusercontent.com/u/72583854?v=4"
   },
   {
@@ -772,7 +792,7 @@
     ],
     "repository": "https://github.com/Tnings/MacosVibrant",
     "pushed_at": "2023-09-16T17:32:42Z",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "avatar": "https://avatars.githubusercontent.com/u/55812511?v=4"
   },
   {
@@ -792,8 +812,8 @@
       "v91"
     ],
     "repository": "https://github.com/andreasgrafen/cascade",
-    "pushed_at": "2024-02-12T02:22:29Z",
-    "stargazers_count": 1431,
+    "pushed_at": "2025-08-17T10:07:43Z",
+    "stargazers_count": 1557,
     "avatar": "https://avatars.githubusercontent.com/u/159644623?v=4"
   },
   {
@@ -811,8 +831,8 @@
       "v91"
     ],
     "repository": "https://github.com/rafaelmardojai/firefox-gnome-theme",
-    "pushed_at": "2025-01-07T13:41:56Z",
-    "stargazers_count": 3563,
+    "pushed_at": "2025-08-25T01:05:13Z",
+    "stargazers_count": 3739,
     "avatar": "https://avatars.githubusercontent.com/u/6210397?v=4"
   },
   {
@@ -830,7 +850,7 @@
     ],
     "repository": "https://github.com/alfarexguy2019/pretofox",
     "pushed_at": "2022-01-21T14:48:03Z",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "avatar": "https://avatars.githubusercontent.com/u/78948152?v=4"
   },
   {
@@ -846,8 +866,8 @@
       "light"
     ],
     "repository": "https://github.com/Zonnev/elementaryos-firefox-theme",
-    "pushed_at": "2024-12-12T14:11:55Z",
-    "stargazers_count": 423,
+    "pushed_at": "2025-09-11T10:31:23Z",
+    "stargazers_count": 442,
     "avatar": "https://avatars.githubusercontent.com/u/32688765?v=4"
   },
   {
@@ -881,7 +901,7 @@
     ],
     "repository": "https://github.com/hakan-demirli/Firefox_Custom_CSS",
     "pushed_at": "2024-02-12T15:16:03Z",
-    "stargazers_count": 79,
+    "stargazers_count": 86,
     "avatar": "https://avatars.githubusercontent.com/u/78746991?v=4"
   },
   {
@@ -899,7 +919,7 @@
     ],
     "repository": "https://github.com/alfarexguy2019/gentlefox",
     "pushed_at": "2021-11-11T06:11:48Z",
-    "stargazers_count": 58,
+    "stargazers_count": 60,
     "avatar": "https://avatars.githubusercontent.com/u/78948152?v=4"
   },
   {
@@ -918,7 +938,7 @@
     ],
     "repository": "https://github.com/Filip-Sutkowy/blurclean-firefox-theme",
     "pushed_at": "2021-09-29T21:49:09Z",
-    "stargazers_count": 89,
+    "stargazers_count": 104,
     "avatar": "https://avatars.githubusercontent.com/u/24491499?v=4"
   },
   {
@@ -934,7 +954,7 @@
     ],
     "repository": "https://github.com/crambaud/waterfall",
     "pushed_at": "2022-08-02T06:38:14Z",
-    "stargazers_count": 272,
+    "stargazers_count": 276,
     "avatar": "https://avatars.githubusercontent.com/u/58910562?v=4"
   },
   {
@@ -967,8 +987,8 @@
       "alfarexguy2019"
     ],
     "repository": "https://github.com/alfarexguy2019/KeyFox",
-    "pushed_at": "2022-01-21T15:28:42Z",
-    "stargazers_count": 117,
+    "pushed_at": "2025-03-14T14:02:57Z",
+    "stargazers_count": 124,
     "avatar": "https://avatars.githubusercontent.com/u/78948152?v=4"
   },
   {
@@ -985,7 +1005,7 @@
     ],
     "repository": "https://github.com/Tnings/CompactFox",
     "pushed_at": "2021-10-23T05:25:10Z",
-    "stargazers_count": 47,
+    "stargazers_count": 52,
     "avatar": "https://avatars.githubusercontent.com/u/55812511?v=4"
   },
   {
@@ -1001,7 +1021,7 @@
     ],
     "repository": "https://github.com/alfarexguy2019/aurora-fox",
     "pushed_at": "2021-11-16T07:18:44Z",
-    "stargazers_count": 23,
+    "stargazers_count": 24,
     "avatar": "https://avatars.githubusercontent.com/u/78948152?v=4"
   },
   {
@@ -1021,7 +1041,7 @@
     ],
     "repository": "https://github.com/sagars007/starry-fox",
     "pushed_at": "2024-05-18T15:17:34Z",
-    "stargazers_count": 137,
+    "stargazers_count": 155,
     "avatar": "https://avatars.githubusercontent.com/u/56472130?v=4"
   },
   {
@@ -1040,8 +1060,8 @@
       "fuchsia"
     ],
     "repository": "https://github.com/Godiesc/firefox-gx",
-    "pushed_at": "2025-01-10T17:59:25Z",
-    "stargazers_count": 870,
+    "pushed_at": "2025-09-16T02:49:38Z",
+    "stargazers_count": 1014,
     "avatar": "https://avatars.githubusercontent.com/u/22057609?v=4"
   },
   {
@@ -1057,8 +1077,8 @@
       "adaptive"
     ],
     "repository": "https://github.com/ayushhroyy/elegantfox",
-    "pushed_at": "2024-10-13T07:32:53Z",
-    "stargazers_count": 36,
+    "pushed_at": "2025-01-31T15:10:20Z",
+    "stargazers_count": 35,
     "avatar": "https://avatars.githubusercontent.com/u/77523847?v=4"
   },
   {
@@ -1074,7 +1094,7 @@
     ],
     "repository": "https://github.com/tyuhao/TYHfox",
     "pushed_at": "2022-12-03T06:36:48Z",
-    "stargazers_count": 10,
+    "stargazers_count": 14,
     "avatar": "https://avatars.githubusercontent.com/u/47909858?v=4"
   },
   {
@@ -1090,7 +1110,7 @@
     ],
     "repository": "https://github.com/BlueFalconHD/SimpleFox-Feather/",
     "pushed_at": "2022-10-31T04:33:20Z",
-    "stargazers_count": 71,
+    "stargazers_count": 74,
     "avatar": "https://avatars.githubusercontent.com/u/72631767?v=4"
   },
   {
@@ -1143,8 +1163,8 @@
       "retro"
     ],
     "repository": "https://github.com/soup-bowl/Modoki-Firefox",
-    "pushed_at": "2024-12-22T10:33:22Z",
-    "stargazers_count": 74,
+    "pushed_at": "2025-07-28T09:03:24Z",
+    "stargazers_count": 84,
     "avatar": "https://avatars.githubusercontent.com/u/11209477?v=4"
   },
   {
@@ -1171,7 +1191,7 @@
     ],
     "repository": "https://github.com/davquar/tilefox",
     "pushed_at": "2022-10-21T20:00:50Z",
-    "stargazers_count": 20,
+    "stargazers_count": 22,
     "avatar": "https://avatars.githubusercontent.com/u/30431538?v=4"
   },
   {
@@ -1189,7 +1209,7 @@
     ],
     "repository": "https://github.com/AidanMercer/AestheticFox",
     "pushed_at": "2023-05-22T18:16:55Z",
-    "stargazers_count": 33,
+    "stargazers_count": 32,
     "avatar": "https://avatars.githubusercontent.com/u/96552673?v=4"
   },
   {
@@ -1205,7 +1225,7 @@
       "minimal"
     ],
     "repository": "https://git.gay/freeplay/Firefox-Onebar",
-    "pushed_at": "2024-12-11T16:08:03Z",
+    "pushed_at": "2025-04-03T01:05:35Z",
     "stargazers_count": 8,
     "avatar": "https://git.gay/avatars/25ef717d14080c74d7a215792ff28c5ba2590585985036074bf9c0723fd9c582?size=512"
   },
@@ -1240,7 +1260,7 @@
     ],
     "repository": "https://github.com/Etesam913/rounded-fox",
     "pushed_at": "2023-09-02T19:29:12Z",
-    "stargazers_count": 93,
+    "stargazers_count": 94,
     "avatar": "https://avatars.githubusercontent.com/u/55665282?v=4"
   },
   {
@@ -1255,8 +1275,8 @@
       "rows"
     ],
     "repository": "https://github.com/hornster02/Firefox-Three-Rows-Simple-Compact-Clean-CSS",
-    "pushed_at": "2025-01-01T10:19:24Z",
-    "stargazers_count": 20,
+    "pushed_at": "2025-08-01T17:30:18Z",
+    "stargazers_count": 24,
     "avatar": "https://avatars.githubusercontent.com/u/127822397?v=4"
   },
   {
@@ -1277,8 +1297,8 @@
       "minimalistic"
     ],
     "repository": "https://github.com/Bali10050/FirefoxCSS",
-    "pushed_at": "2024-12-20T16:20:04Z",
-    "stargazers_count": 305,
+    "pushed_at": "2025-07-30T23:21:37Z",
+    "stargazers_count": 350,
     "avatar": "https://avatars.githubusercontent.com/u/110120798?v=4"
   },
   {
@@ -1294,8 +1314,8 @@
       "macos"
     ],
     "repository": "https://github.com/jtlw99/vicefox",
-    "pushed_at": "2023-12-15T05:13:17Z",
-    "stargazers_count": 46,
+    "pushed_at": "2025-04-26T07:31:52Z",
+    "stargazers_count": 48,
     "avatar": "https://avatars.githubusercontent.com/u/93564256?v=4"
   },
   {
@@ -1311,7 +1331,7 @@
     ],
     "repository": "https://github.com/BloodyHell619/Firefox-Theme-DarkMatter",
     "pushed_at": "2024-10-13T06:44:57Z",
-    "stargazers_count": 70,
+    "stargazers_count": 74,
     "avatar": "https://avatars.githubusercontent.com/u/65298540?v=4"
   },
   {
@@ -1326,8 +1346,8 @@
       "quantum"
     ],
     "repository": "https://github.com/zapSNH/zapsCoolPhotonTheme",
-    "pushed_at": "2025-01-12T01:52:43Z",
-    "stargazers_count": 83,
+    "pushed_at": "2025-09-06T01:40:07Z",
+    "stargazers_count": 114,
     "avatar": "https://avatars.githubusercontent.com/u/134786889?v=4"
   },
   {
@@ -1348,8 +1368,8 @@
       "tabs"
     ],
     "repository": "https://github.com/Godiesc/firefox-one",
-    "pushed_at": "2024-12-14T14:14:42Z",
-    "stargazers_count": 325,
+    "pushed_at": "2025-09-16T03:34:33Z",
+    "stargazers_count": 373,
     "avatar": "https://avatars.githubusercontent.com/u/22057609?v=4"
   },
   {
@@ -1368,7 +1388,7 @@
     ],
     "repository": "https://github.com/JarnotMaciej/Essence",
     "pushed_at": "2024-07-08T10:58:01Z",
-    "stargazers_count": 35,
+    "stargazers_count": 40,
     "avatar": "https://avatars.githubusercontent.com/u/92025751?v=4"
   },
   {
@@ -1386,7 +1406,7 @@
     ],
     "repository": "https://github.com/ttntm/minimal-one-line-firefox",
     "pushed_at": "2024-06-15T16:07:30Z",
-    "stargazers_count": 46,
+    "stargazers_count": 45,
     "avatar": "https://avatars.githubusercontent.com/u/41571384?v=4"
   },
   {
@@ -1406,8 +1426,8 @@
       "black"
     ],
     "repository": "https://github.com/Hakanbaban53/RealFire",
-    "pushed_at": "2025-01-05T13:36:14Z",
-    "stargazers_count": 29,
+    "pushed_at": "2025-03-06T06:27:34Z",
+    "stargazers_count": 32,
     "avatar": "https://avatars.githubusercontent.com/u/93117749?v=4"
   },
   {
@@ -1433,7 +1453,7 @@
     ],
     "repository": "https://github.com/Tagggar/Firefox-Alpha",
     "pushed_at": "2024-05-26T06:03:23Z",
-    "stargazers_count": 248,
+    "stargazers_count": 256,
     "avatar": "https://avatars.githubusercontent.com/u/81634877?v=4"
   },
   {
@@ -1484,29 +1504,9 @@
       "macos"
     ],
     "repository": "https://github.com/rainbowflesh/Me-Personal-Firefox-Settup",
-    "pushed_at": "2025-01-10T19:44:40Z",
+    "pushed_at": "2025-04-04T15:38:29Z",
     "stargazers_count": 22,
     "avatar": "https://avatars.githubusercontent.com/u/20819692?v=4"
-  },
-  {
-    "title": "arcadia",
-    "link": "https://github.com/tyrohellion/arcadia",
-    "description": "Minimal Firefox theme and user.js focused on speed and design",
-    "image": "assets/img/themes/arcadia.webp",
-    "tags": [
-      "tyro",
-      "dark",
-      "minimal",
-      "clean",
-      "hovercards",
-      "simple",
-      "compact",
-      "minimalistic"
-    ],
-    "repository": "https://github.com/tyrohellion/arcadia",
-    "pushed_at": "2024-11-01T01:00:57Z",
-    "stargazers_count": 15,
-    "avatar": "https://avatars.githubusercontent.com/u/51808054?v=4"
   },
   {
     "title": "Firefox Plus",
@@ -1521,8 +1521,8 @@
       "dark"
     ],
     "repository": "https://github.com/amnweb/firefox-plus",
-    "pushed_at": "2024-12-16T21:14:15Z",
-    "stargazers_count": 239,
+    "pushed_at": "2025-07-28T22:22:26Z",
+    "stargazers_count": 272,
     "avatar": "https://avatars.githubusercontent.com/u/16545063?v=4"
   },
   {
@@ -1541,7 +1541,7 @@
     ],
     "repository": "https://github.com/Shina-SG/Shina-Fox",
     "pushed_at": "2024-05-24T23:41:47Z",
-    "stargazers_count": 441,
+    "stargazers_count": 474,
     "avatar": "https://avatars.githubusercontent.com/u/135497382?v=4"
   },
   {
@@ -1558,7 +1558,7 @@
     ],
     "repository": "https://github.com/SecondMikasa/ArnimFox",
     "pushed_at": "2024-01-28T10:20:05Z",
-    "stargazers_count": 8,
+    "stargazers_count": 6,
     "avatar": "https://avatars.githubusercontent.com/u/129872339?v=4"
   },
   {
@@ -1574,7 +1574,7 @@
     ],
     "repository": "https://github.com/Khalylexe/Firefox-Rounded-Theme",
     "pushed_at": "2024-02-09T20:20:24Z",
-    "stargazers_count": 27,
+    "stargazers_count": 29,
     "avatar": "https://avatars.githubusercontent.com/u/119526243?v=4"
   },
   {
@@ -1587,8 +1587,8 @@
       "minimal"
     ],
     "repository": "https://github.com/Naezr/ShyFox",
-    "pushed_at": "2024-11-29T14:02:33Z",
-    "stargazers_count": 1886,
+    "pushed_at": "2025-01-21T07:39:15Z",
+    "stargazers_count": 2111,
     "avatar": "https://avatars.githubusercontent.com/u/95460152?v=4"
   },
   {
@@ -1623,7 +1623,7 @@
     ],
     "repository": "https://github.com/osem598/Firefox-98",
     "pushed_at": "2024-08-26T00:25:34Z",
-    "stargazers_count": 29,
+    "stargazers_count": 34,
     "avatar": "https://avatars.githubusercontent.com/u/67332812?v=4"
   },
   {
@@ -1642,8 +1642,8 @@
       "minimal"
     ],
     "repository": "https://github.com/KiKaraage/ArcWTF/",
-    "pushed_at": "2024-12-11T09:09:44Z",
-    "stargazers_count": 1454,
+    "pushed_at": "2025-07-23T11:43:48Z",
+    "stargazers_count": 1703,
     "avatar": "https://avatars.githubusercontent.com/u/10529881?v=4"
   },
   {
@@ -1663,7 +1663,7 @@
     ],
     "repository": "https://github.com/FineFuturity/FrameUIForFirefox/",
     "pushed_at": "2024-12-03T23:57:05Z",
-    "stargazers_count": 63,
+    "stargazers_count": 66,
     "avatar": "https://avatars.githubusercontent.com/u/19298107?v=4"
   },
   {
@@ -1679,8 +1679,8 @@
       "bettterbrowser"
     ],
     "repository": "https://github.com/betterbrowser/arcfox",
-    "pushed_at": "2025-01-05T01:23:10Z",
-    "stargazers_count": 1115,
+    "pushed_at": "2025-06-01T21:38:03Z",
+    "stargazers_count": 1229,
     "avatar": "https://avatars.githubusercontent.com/u/126220586?v=4"
   },
   {
@@ -1699,8 +1699,8 @@
       "oneline"
     ],
     "repository": "https://github.com/vinceliuice/WhiteSur-firefox-theme",
-    "pushed_at": "2025-01-11T07:22:14Z",
-    "stargazers_count": 404,
+    "pushed_at": "2025-08-27T04:34:45Z",
+    "stargazers_count": 479,
     "avatar": "https://avatars.githubusercontent.com/u/7604295?v=4"
   },
   {
@@ -1721,7 +1721,7 @@
     ],
     "repository": "https://github.com/mimipile/firefoxCSS",
     "pushed_at": "2024-08-26T09:06:51Z",
-    "stargazers_count": 107,
+    "stargazers_count": 133,
     "avatar": "https://avatars.githubusercontent.com/u/74282993?v=4"
   },
   {
@@ -1740,8 +1740,8 @@
       "autocolor"
     ],
     "repository": "https://github.com/d0sse/macFox-theme",
-    "pushed_at": "2024-12-15T14:00:51Z",
-    "stargazers_count": 23,
+    "pushed_at": "2025-08-21T22:11:40Z",
+    "stargazers_count": 34,
     "avatar": "https://avatars.githubusercontent.com/u/16508608?v=4"
   },
   {
@@ -1764,25 +1764,23 @@
     ],
     "repository": "https://github.com/artsyfriedchicken/EdgyArc-fr/",
     "pushed_at": "2024-06-29T17:41:05Z",
-    "stargazers_count": 668,
+    "stargazers_count": 699,
     "avatar": "https://avatars.githubusercontent.com/u/100123017?v=4"
   },
   {
     "title": "FF Ultima",
     "link": "https://github.com/soulhotel/FF-ULTIMA",
-    "description": "Native Vertical Tabs, keep your sidebar, no extensions. No overthinking. FF Ultima",
-    "image": "assets/img/themes/FF_Ultima.webp",
+    "description": "The Firefox theme with too many options",
+    "image": "https://raw.githubusercontent.com/soulhotel/FF-ULTIMA/refs/heads/fu-extras/assets/ffu-previews/fcss.gif",
     "tags": [
-      "vertical tabs",
-      "minimal",
-      "lightweight",
+      "modern",
+      "adaptive",
       "customizable",
-      "dark",
-      "light"
+      "multiple layouts"
     ],
     "repository": "https://github.com/soulhotel/FF-ULTIMA",
-    "pushed_at": "2025-01-10T09:43:27Z",
-    "stargazers_count": 668,
+    "pushed_at": "2025-09-16T13:14:57Z",
+    "stargazers_count": 978,
     "avatar": "https://avatars.githubusercontent.com/u/155501797?v=4"
   },
   {
@@ -1797,7 +1795,7 @@
     ],
     "repository": "https://github.com/CarterSnich/firefox-xtra-compact",
     "pushed_at": "2024-12-26T01:59:37Z",
-    "stargazers_count": 16,
+    "stargazers_count": 23,
     "avatar": "https://avatars.githubusercontent.com/u/52433531?v=4"
   },
   {
@@ -1814,8 +1812,8 @@
       "minimal"
     ],
     "repository": "https://github.com/SandTechStuff/AeroFirefox",
-    "pushed_at": "2024-12-20T06:22:10Z",
-    "stargazers_count": 5,
+    "pushed_at": "2025-04-18T03:59:05Z",
+    "stargazers_count": 20,
     "avatar": "https://avatars.githubusercontent.com/u/164842290?v=4"
   },
   {
@@ -1831,9 +1829,9 @@
       "arc"
     ],
     "repository": "https://codeberg.org/awwpotato/PotatoFox",
-    "pushed_at": "2025-01-12T05:21:57Z",
-    "stargazers_count": 33,
-    "avatar": "https://codeberg.org/avatars/c92a86cf41eeafd031d5824f7a846722be2ef6f1cc866f910f1a89e6348b72bc"
+    "pushed_at": "2025-08-24T21:19:19+02:00",
+    "stargazers_count": 43,
+    "avatar": "https://codeberg.org/avatars/bd252d906010a016f1fd29e68e873ea983c8491eb70820d838ef2fa255d8a703"
   },
   {
     "title": "Minimal-Arc",
@@ -1850,7 +1848,7 @@
     ],
     "repository": "https://github.com/zayihu/Minimal-Arc",
     "pushed_at": "2024-09-07T06:13:59Z",
-    "stargazers_count": 53,
+    "stargazers_count": 64,
     "avatar": "https://avatars.githubusercontent.com/u/167391787?v=4"
   },
   {
@@ -1865,8 +1863,8 @@
       "home page"
     ],
     "repository": "https://github.com/naveensagar765/SnowFox",
-    "pushed_at": "2024-08-09T05:27:54Z",
-    "stargazers_count": 9,
+    "pushed_at": "2025-02-09T13:37:31Z",
+    "stargazers_count": 11,
     "avatar": "https://avatars.githubusercontent.com/u/155926112?v=4"
   },
   {
@@ -1883,7 +1881,7 @@
     ],
     "repository": "https://github.com/RemyIsCool/AnimatedFox",
     "pushed_at": "2024-07-16T13:55:19Z",
-    "stargazers_count": 165,
+    "stargazers_count": 184,
     "avatar": "https://avatars.githubusercontent.com/u/97812130?v=4"
   },
   {
@@ -1898,8 +1896,8 @@
       "quiet"
     ],
     "repository": "https://github.com/TheGITofTeo997/quietfoxReborn",
-    "pushed_at": "2025-01-07T19:28:49Z",
-    "stargazers_count": 79,
+    "pushed_at": "2025-09-16T15:13:32Z",
+    "stargazers_count": 88,
     "avatar": "https://avatars.githubusercontent.com/u/26879664?v=4"
   },
   {
@@ -1913,7 +1911,7 @@
     ],
     "repository": "https://github.com/AnhNguyenlost13/GlassyFox",
     "pushed_at": "2024-10-04T03:38:39Z",
-    "stargazers_count": 7,
+    "stargazers_count": 11,
     "avatar": "https://avatars.githubusercontent.com/u/94160753?v=4"
   },
   {
@@ -1933,7 +1931,7 @@
     ],
     "repository": "https://github.com/vintnarni/Firefox-98-Xtra-Compact",
     "pushed_at": "2024-11-02T17:56:51Z",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "avatar": "https://avatars.githubusercontent.com/u/132811907?v=4"
   },
   {
@@ -1952,7 +1950,7 @@
     ],
     "repository": "https://github.com/FawazBinSaleem/FireFoxOneLinerCSS",
     "pushed_at": "2024-12-20T21:01:20Z",
-    "stargazers_count": 16,
+    "stargazers_count": 30,
     "avatar": "https://avatars.githubusercontent.com/u/48177454?v=4"
   },
   {
@@ -1969,7 +1967,7 @@
     ],
     "repository": "https://github.com/Kaskapa/Monochrome-Neubrutalism-Firefox-Theme",
     "pushed_at": "2024-06-02T13:53:52Z",
-    "stargazers_count": 14,
+    "stargazers_count": 21,
     "avatar": "https://avatars.githubusercontent.com/u/100031511?v=4"
   },
   {
@@ -1985,7 +1983,7 @@
     ],
     "repository": "https://github.com/yari-dog/minimalistest-oneliner-librewolf",
     "pushed_at": "2024-08-28T10:11:56Z",
-    "stargazers_count": 9,
+    "stargazers_count": 8,
     "avatar": "https://avatars.githubusercontent.com/u/75224849?v=4"
   },
   {
@@ -2001,8 +1999,24 @@
     ],
     "repository": "https://github.com/dxdotdev/arc-ui",
     "pushed_at": "2025-01-05T13:34:56Z",
-    "stargazers_count": 64,
+    "stargazers_count": 72,
     "avatar": "https://avatars.githubusercontent.com/u/157044645?v=4"
+  },
+  {
+    "title": "Minimalist-DarkGreen",
+    "link": "https://github.com/andev0x/Minimalist-DarkGreen",
+    "description": "A theme for firefox with dark green colors.",
+    "image": "assets/img/themes/Minimalist-DarkGreen.gif",
+    "tags": [
+      "andev0x",
+      "dark",
+      "green",
+      "minimalist"
+    ],
+    "repository": "https://github.com/andev0x/Minimalist-DarkGreen",
+    "pushed_at": "2025-08-13T05:32:28Z",
+    "stargazers_count": 2,
+    "avatar": "https://avatars.githubusercontent.com/u/152575252?v=4"
   },
   {
     "title": "Material Fox Updated",
@@ -2021,8 +2035,8 @@
       "updated"
     ],
     "repository": "https://github.com/edelvarden/material-fox-updated",
-    "pushed_at": "2025-01-11T19:22:31Z",
-    "stargazers_count": 425,
+    "pushed_at": "2025-08-29T18:54:12Z",
+    "stargazers_count": 592,
     "avatar": "https://avatars.githubusercontent.com/u/42596339?v=4"
   },
   {
@@ -2038,14 +2052,14 @@
     ],
     "repository": "https://github.com/ashish-kus/MiniSthetic_Firefox",
     "pushed_at": "2025-01-12T05:02:51Z",
-    "stargazers_count": 14,
+    "stargazers_count": 18,
     "avatar": "https://avatars.githubusercontent.com/u/78788195?v=4"
   },
   {
     "title": "VP-NightSky",
     "link": "https://github.com/VertexProximity/VP_NightSky",
     "description": "Firefox reimagined",
-    "image": "assets/img/themes/NightSky",
+    "image": "assets/img/themes/NightSky.webp",
     "tags": [
       "VertexProximity",
       "theme type: dark",
@@ -2060,7 +2074,7 @@
     "title": "cyanmatrx",
     "link": "https://github.com/Barnacl437/cyanmatrx",
     "description": "a simple, cool-esque, cyan monospace theme.",
-    "image": "assets/images/themes/cyanmatrx.png",
+    "image": "assets/img/themes/cyanmatrx.webp",
     "tags": [
       "cyanmatrx",
       "theme type: dark",
@@ -2068,8 +2082,8 @@
       "minimal"
     ],
     "repository": "https://github.com/Barnacl437/cyanmatrx",
-    "pushed_at": "2025-01-12T10:58:41Z",
-    "stargazers_count": 0,
+    "pushed_at": "2025-06-13T15:42:36Z",
+    "stargazers_count": 1,
     "avatar": "https://avatars.githubusercontent.com/u/87983017?v=4"
   },
   {
@@ -2083,8 +2097,127 @@
       "sidebery"
     ],
     "repository": "https://github.com/oviung/DownToneUI-Firefox",
-    "pushed_at": "2025-01-11T13:19:25Z",
-    "stargazers_count": 0,
+    "pushed_at": "2025-05-03T09:55:59Z",
+    "stargazers_count": 42,
     "avatar": "https://avatars.githubusercontent.com/u/8101674?v=4"
+  },
+  {
+    "title": "Firefox Moonlight Theme",
+    "link": "https://github.com/sinazadeh/Firefox-Moonlight-Theme",
+    "description": "A sleek and modern dark blue Firefox theme with smooth, rounded elements for a refined browsing experience.",
+    "image": "https://raw.githubusercontent.com/sinazadeh/Firefox-Moonlight-Theme/main/assets/preview.jpg",
+    "tags": [
+      "Sina",
+      "dark",
+      "blue",
+      "round",
+      "cerulean"
+    ],
+    "repository": "https://github.com/sinazadeh/Firefox-Moonlight-Theme",
+    "pushed_at": "2025-02-13T22:08:42Z",
+    "stargazers_count": 4,
+    "avatar": "https://avatars.githubusercontent.com/u/63080674?v=4"
+  },
+  {
+    "title": "Elegant Floorp",
+    "link": "https://github.com/Mingo-coder/Elegant-Floorp/releases/download/v1.0/Elegant_Floorp.zip",
+    "description": "Default Floorp Fluential UI modded",
+    "image": "assets/img/themes/elegant_floorp.webp",
+    "tags": [
+      "Mingo-coder",
+      "theme type: dark",
+      "theme type: light",
+      "Floorp"
+    ],
+    "repository": "https://github.com/Mingo-coder/Elegant-Floorp",
+    "pushed_at": "2025-04-06T03:53:06Z",
+    "stargazers_count": 1,
+    "avatar": "https://avatars.githubusercontent.com/u/177513443?v=4"
+  },
+  {
+    "title": "Sakuras Simple Sidebar",
+    "link": "https://github.com/SakuraMeadows/Sakuras-Simple-Sidebar",
+    "description": "A simple Firefox theme using Sidebery sidebar.",
+    "image": "https://raw.githubusercontent.com/SakuraMeadows/Sakuras-Simple-Sidebar/39908072a7fe102f91658d5df73ce24ad24d6290/page%20assets/SakurasSimpleSidebarExample.gif",
+    "tags": [
+      "SakuraMeadows",
+      "theme type: dark",
+      "theme type: light",
+      "vertical",
+      "sidebery",
+      "catppuccin",
+      "simple",
+      "sidebar"
+    ],
+    "repository": "https://github.com/SakuraMeadows/Sakuras-Simple-Sidebar",
+    "pushed_at": "2025-06-15T20:08:04Z",
+    "stargazers_count": 12,
+    "avatar": "https://avatars.githubusercontent.com/u/93335748?v=4"
+  },
+  {
+    "title": "LittleFox",
+    "link": "https://github.com/biglavis/LittleFox",
+    "description": "A minimalistic, mouse centered CSS theme for FireFox.",
+    "image": "https://raw.githubusercontent.com/biglavis/LittleFox/main/assets/preview_small.webp",
+    "tags": [
+      "simple",
+      "compact",
+      "minimal",
+      "oneline"
+    ],
+    "repository": "https://github.com/biglavis/LittleFox",
+    "pushed_at": "2025-09-12T07:53:18Z",
+    "stargazers_count": 14,
+    "avatar": "https://avatars.githubusercontent.com/u/105270868?v=4"
+  },
+  {
+    "title": "FlexFox",
+    "link": "https://github.com/yuuqilin/FlexFox",
+    "description": "A lightweight Firefox theme focused on usability, flexibility, and smooth performance.",
+    "image": "https://raw.githubusercontent.com/yuuqilin/media-assets/refs/heads/FlexFox/assets/FlexFox-overview-firefoxcss-store.webp",
+    "tags": [
+      "lightweight",
+      "minimal",
+      "Sidebery",
+      "Mica",
+      "flexible"
+    ],
+    "repository": "https://github.com/yuuqilin/FlexFox",
+    "pushed_at": "2025-09-15T14:53:15Z",
+    "stargazers_count": 139,
+    "avatar": "https://avatars.githubusercontent.com/u/154042945?v=4"
+  },
+  {
+    "title": "git userChrome",
+    "link": "https://github.com/soulhotel/git-userChrome",
+    "description": "An automation tool for installing userChrome Themes",
+    "image": "https://raw.githubusercontent.com/soulhotel/FF-ULTIMA/refs/heads/fu-extras/assets/gituserchrome/preview-compressed.gif",
+    "tags": [
+      "git",
+      "tool",
+      "firefox",
+      "userChrome",
+      "automation"
+    ],
+    "repository": "https://github.com/soulhotel/git-userChrome",
+    "pushed_at": "2025-08-27T21:28:32Z",
+    "stargazers_count": 20,
+    "avatar": "https://avatars.githubusercontent.com/u/155501797?v=4"
+  },
+  {
+    "title": "Gruvbox GNOMEish",
+    "link": "https://github.com/xslhub/gruvbox-gnomeish-firefox-theme",
+    "description": "A minimal Firefox theme inspired by the aesthetics of Gruvbox and GNOME. ",
+    "image": "https://github.com/xslhub/gruvbox-gnomeish-firefox-theme/raw/main/screenshot.png",
+    "tags": [
+      "xslhub",
+      "theme type: dark",
+      "gruvbox",
+      "GNOME"
+    ],
+    "repository": "https://github.com/xslhub/gruvbox-gnomeish-firefox-theme",
+    "pushed_at": "2025-08-26T13:52:46Z",
+    "stargazers_count": 2,
+    "avatar": "https://avatars.githubusercontent.com/u/158527507?v=4"
   }
 ]
